@@ -1,3 +1,3 @@
 # kokoa clone 220 upadate
 
-css got so much better!
+Html & css are so much better!
